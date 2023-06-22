@@ -4,8 +4,8 @@ A plain JavaScript ESM implementation:
 
 https://josdejong.github.io/mandelbrot-explorer/
 
-![mandelbrot explorer screenshot 1](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/images/mandelbrot-explorer-screenshot1.png)
-![mandelbrot explorer screenshot 2](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/images/mandelbrot-explorer-screenshot2.png)
+![mandelbrot explorer screenshot 1](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/main/images/mandelbrot-explorer-screenshot1.png)
+![mandelbrot explorer screenshot 2](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/main/images/mandelbrot-explorer-screenshot2.png)
 
 ## What is Mandelbrot?
 
