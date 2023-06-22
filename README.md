@@ -1,6 +1,10 @@
 # Mandelbrot Explorer
 
-A plain JavaScript ESM implementation.
+A plain JavaScript ESM implementation: 
+
+https://josdejong.github.io/mandelbrot-explorer/
+
+## What is Mandelbrot?
 
 Explanation from [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set):
 
