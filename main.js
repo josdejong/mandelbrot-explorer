@@ -14,7 +14,6 @@ const viewState = document.getElementById('view-state')
 
 /** @type {ViewState} */
 let state = getInitialState(canvas.clientHeight)
-maxIterations.value = String(state.maxIterations)
 
 const render = (upscale = 1) => {
   const values = calculateMandelbrotValues(state, getSize(upscale))
@@ -25,6 +24,8 @@ const render = (upscale = 1) => {
     `im: ${round(state.centerIm, 5)}`,
     `zoom: ${round(zoomFactor, 3)}`
   ].join(', ')
+
+  maxIterations.value = String(state.maxIterations)
 
   draw(canvas, values, state)
 }

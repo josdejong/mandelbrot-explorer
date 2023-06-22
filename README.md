@@ -2,7 +2,7 @@
 
 A plain JavaScript ESM implementation: 
 
-https://josdejong.github.io/mandelbrot-explorer/
+Try it out: https://josdejong.github.io/mandelbrot-explorer/
 
 ![mandelbrot explorer screenshot 1](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/main/images/mandelbrot-explorer-screenshot1.png)
 ![mandelbrot explorer screenshot 2](https://raw.githubusercontent.com/josdejong/mandelbrot-explorer/main/images/mandelbrot-explorer-screenshot2.png)
