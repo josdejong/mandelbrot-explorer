@@ -1,5 +1,7 @@
 # Mandelbrot Explorer
 
+A plain JavaScript ESM implementation.
+
 Explanation from [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set):
 
 > The Mandelbrot set is the set of values of c in the complex plane for which the orbit of the critical point z=0 under iteration of the quadratic map
